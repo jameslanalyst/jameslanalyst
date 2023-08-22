@@ -1,17 +1,17 @@
-Hi, I'm James, a data analyst from Canada.
+👋 Hi, I'm James, a data analyst from Canada.
 
-# About Me
+# 😎 About Me
 
-* I'm currently a full-time marketer
-* Love learning new skills.
+* 📈 I'm currently a full-time data-driven marketer.
+* 🧵 Love learning new skills.
 
-# Skills and Tools
+# 🛠 Skills and Tools
   * Tools: SQL, Excel, Tableau, R
   * Skills: Marketing Analysis, Sales Analysis.
 
-# Projects
+# 📚 Projects
 
 
-# Connect with Me
+# 📲 Connect with Me
  * [LinkedIn](https://www.linkedin.com/in/jameslawson13/)
  * [Email](lawson.jamesjr@gmail.com)
