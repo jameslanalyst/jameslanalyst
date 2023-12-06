@@ -7,7 +7,7 @@
 * 🔍 Insatiable Curiosity
 
 # 🛠 Skills and Tools
-  * Tools: Excel, SQL, Tableau, Python (Pandas, numPy, Matplotlib)
+  * Tools: Excel, SQL, Tableau, Python (Pandas, NumPy, Matplotlib)
   * Skills: Marketing Analysis, Sales Analysis, Storytelling, Effective Communication
 
 # 📚 Projects
